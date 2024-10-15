@@ -1,0 +1,15 @@
+th {
+    padding: 15px 20px;
+    color: white;
+    background-color: rgb(135, 43, 179);
+    border: 1px solid rgb(66, 58, 58);
+}
+table {
+    border-collapse: collapse;
+}
+tr:nth-child(odd) {
+    background-color: rgb(204, 202, 202);
+}
+th, td {
+    border: 1px solid grey;
+}
